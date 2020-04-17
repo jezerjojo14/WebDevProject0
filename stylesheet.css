@@ -1,0 +1,63 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.banner {
+  background-color: #333355;
+  display: inline;
+  margin: 0px;
+  color: #ededed;
+  width: 100%;
+}
+.banner a {
+  color: white;
+  text-decoration: none;
+}
+
+#dropdownMenuButton {
+  color: white;
+  background-color: #333344;
+}
+
+.dropdown-menu a {
+  color: black;
+}
+
+#header {
+  position: fixed;
+  top: 0px;
+  height: 70px;
+}
+#header h1 {
+  font-family: "Lucida Sans", sans-serif;
+  display: inline-block;
+}
+
+#nav {
+  position: fixed;
+  display: inline-block;
+  padding: 0px;
+  top: 15px;
+  right: 10px;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0px;
+  padding: 10px;
+  text-align: center;
+}
+
+#main-body {
+  margin-top: 120px;
+  margin-left: 50px;
+}
+
+h1 {
+  margin: 20px;
+  font-weight: 200;
+  font-family: Rockwell, Arial, sans-serif;
+}
+
+/*# sourceMappingURL=stylesheet.css.map */
